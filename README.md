@@ -12,6 +12,15 @@ Application web pour gérer les réservations, clients et chambres d'un hôtel.
 
  -➕ Ajout de nouveaux clients/réservations
 
+ ⚙️Technologies utilisées
+ 
+ -Python 3
+
+ -Streamlit (Interface utilisateur)
+
+ -SQLite (Base de données)
+
+
  🗃️ Base de Données
 
  -SQLite (hotel.db)
@@ -24,5 +33,5 @@ Application web pour gérer les réservations, clients et chambres d'un hôtel.
 
  📝Auteur(e)
 
-Nom : [Laila Borrou && Aicha Echchafiai]
+  Laila Borrou && Aicha Echchafiai <br>
 Projet réalisé dans le cadre de " Base de données "
